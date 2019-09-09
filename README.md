@@ -20,12 +20,12 @@ Disclaimer: This is just **a personal note** from reading various website and th
 
 ## Algorithms and Data Structures
 ### Books
-- (The Algorithm Design Manual)[https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/?pldnSite=1]
-- (How to Solve it)[https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/?pldnSite=1]
-- (Algorithm by Sedgewick)[https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=sr_1_1?crid=24Q2RE30I302F&keywords=sedgewick+algorithms&qid=1568036517&s=books&sprefix=Sedgewick+%2Cstripbooks-intl-ship%2C419&sr=1-1]
+- [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/?pldnSite=1)
+- [How to Solve it](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/?pldnSite=1)
+- [Algorithm by Sedgewick](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=sr_1_1?crid=24Q2RE30I302F&keywords=sedgewick+algorithms&qid=1568036517&s=books&sprefix=Sedgewick+%2Cstripbooks-intl-ship%2C419&sr=1-1)
 ### Videos
-- (CSE373 2016 Stony Brook University)[https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp]
-- (Stanford's Algorithm Coursera)[https://www.coursera.org/specializations/algorithms]
+- [CSE373 2016 Stony Brook University](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
+- [Stanford's Algorithm Coursera](https://www.coursera.org/specializations/algorithms)
 
 ## Math for CS
 ### Books
